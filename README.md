@@ -3,6 +3,8 @@
 [![Package Version](https://img.shields.io/hexpm/v/webmidi)](https://hex.pm/packages/webmidi)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/webmidi/)
 
+Gleam bindings to the Web MIDI API.
+
 ## Quick start
 
 ```sh
