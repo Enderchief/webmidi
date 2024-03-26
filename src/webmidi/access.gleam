@@ -15,6 +15,6 @@ pub fn sysex_enabled(access: webmidi.MidiAccess) -> Bool {
 
 @external(javascript, "../ffi_webmidi.mjs", "on_state_change")
 pub fn on_state_change(
-  accces: webmidi.MidiAccess,
+  access: webmidi.MidiAccess,
   func: fn(webmidi.ConnectionEvent) -> Nil,
 ) -> Nil
