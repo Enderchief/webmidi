@@ -20,4 +20,3 @@ gleam_javascript = "~> 0.7"
 
 [dev-dependencies]
 gleeunit = "~> 1.0"
-esgleam = "~> 0.4"
